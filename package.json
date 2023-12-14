@@ -1,0 +1,12 @@
+{
+  "name": "curso-de-fundamentos-de-nodejs",
+  "version": "1.0.0",
+  "description": "Conocer los conceptos básicos de Node.js, Cómo manejar la asincronía, Entender los módulos del core, Utilizar los módulos y paquetes externos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
