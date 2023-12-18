@@ -6,7 +6,7 @@ const prop1 = 'Test prop1';
 const prop2 = 2;
 
 // Opcion 1
-module.exports = sayHello;
+// module.exports = sayHello;
 
 // Opcion 2
 module.exports = {
