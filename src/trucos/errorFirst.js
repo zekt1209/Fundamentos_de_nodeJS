@@ -1,7 +1,7 @@
+ // Patron Error First Callback cuando manejamos callbacks en funciones asincronas
  function asincrona(callback) {
     setTimeout(() => {
         try {
-            let z
             let a = 3 + z; // Truena, z is not defined
             callback(null, a) // El error va a ser null, el valor que vamos a devolver es a
         } catch (error) {
